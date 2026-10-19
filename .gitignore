@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+mars_rocks/
+marsyard_images/
+demo_uploads/
+runs/
+
+
